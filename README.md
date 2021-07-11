@@ -1,7 +1,7 @@
 # Hello, folks! I am Chandan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## <h4 align="center">A passionate Developer from India</h4>
 
-<img align="right" src="https://github.com/c02kr/c02kr/blob/main/resources/2021-07-11%2021.55.19.gif" width="400" height="400" />
+<img align="right" src="https://github.com/c02kr/c02kr/blob/main/resources/Project%20Name.gif" width="400" height="400" />
 
 
 
