@@ -1,6 +1,11 @@
+<a name="logo"/>
+<div align="center">
+<a href="https://julialang.org/" target="_blank">
+<img src="https://github.com/c02kr/c02kr/blob/main/resources/signature.svg" alt="Julia Logo" width="610" height="442"></img>
+</a>
+</div>
 # Hello, folks! I am Chandan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## <h4 align="center">A passionate Developer from India</h4>
-
 
 
 <p align="left"> <a href="https://twitter.com/c02kr" target="blank"><img src="https://img.shields.io/twitter/follow/c02kr?logo=twitter&style=for-the-badge" alt="c02kr" /></a> </p>
