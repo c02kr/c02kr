@@ -1,7 +1,7 @@
 <a name="logo"/>
 <div align="center">
 <a href="https://julialang.org/" target="_blank">
-<img src="https://github.com/c02kr/c02kr/blob/main/resources/signature.svg" alt="Julia Logo" width="210" height="142"></img>
+<img src="https://github.com/c02kr/c02kr/blob/main/resources/ezgif.com-gif-maker.svg" alt="Julia Logo" width="210" height="142"></img>
 </a>
 </div>
 # Hello, folks! I am Chandan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
