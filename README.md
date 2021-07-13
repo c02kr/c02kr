@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c02kr&" alt="c02kr" /></p>
 ## <h2> About me </h2>
-<h4> i am a newbie in the tech world trying to get some knowledge<br> i like coding and mainly use python and c++ for competitive coding=. </h4>
+<h4> i am a newbie in the tech world trying to get some knowledge<br> i like coding and mainly use python and c++ for competitive coding. </h4>
