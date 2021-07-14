@@ -1,8 +1,7 @@
-## Hey there! I'm Chandan👋
+## Hey there! I'm Chandan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### About me 👩
-
-I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute \in  open source.
+### About me☺️
+I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute in  open source.
 
 
 
@@ -26,9 +25,9 @@ Software Development | Web development | Competitive Programming | Open Source C
 <br>
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr)
+![Stalkers](https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr)
 </div>
-<!-- ![Kajol's Github Stats](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
+<!-- ![My Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### My Most used Languages
