@@ -15,7 +15,7 @@ I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I
 
 ### My Interests
 
-Software Development | Web development | Competitive Programming | Open Source Contribution
+//Software Development | Web development | Competitive Programming | Open Source Contribution
 
 
 ### My Stats
