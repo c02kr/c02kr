@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/c02kr" target="blank"><img src="https://img.shields.io/twitter/follow/c02kr?logo=twitter&style=for-the-badge" alt="c02kr" /></a> </p>
 
-- 📫 How to reach me **c02kr@icloud.com**
+- 📫 How to reach me out  **c02kr@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
