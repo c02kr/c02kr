@@ -19,7 +19,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 
 ### My Stats
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=c02kr&theme=dark" width="48%" >
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=buefy-dark&dates=2CDD1C&background=000000&border=23FA85&fire=DDC65A&ring=B2F897&sideNums=DD0000)](https://git.io/streak-stats)
 <img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 
 <br>
