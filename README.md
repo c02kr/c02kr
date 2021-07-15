@@ -21,7 +21,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 ### My Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=c02kr&theme=dark" width="48%" >
+
 <br>
 <div align="center">
 
