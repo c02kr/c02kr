@@ -19,13 +19,12 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=buefy-dark&dates=2CDD1C&background=000000&border=23FA85&fire=DDC65A&ring=B2F897&sideNums=DD0000)](https://git.io/streak-stats)
-<img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=buefy-dark&dates=2CDD1C&background=000000&border=23FA85&fire=DDC65A&ring=B2F897&sideNums=DD0000)](https://git.io/streak-stats" width="40%"><img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
 
 <br>
-<div align="center">
+<div align="right">
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
 
-![Stalkers](https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr)
 </div>
 <!-- ![My Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
