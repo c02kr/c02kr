@@ -1,5 +1,5 @@
 ## Hey there! I'm Chandan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### welcome to my github home
 ### About me☺️
 I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute in  open source.
 
@@ -19,9 +19,9 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 
 ### My Stats
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=buefy-dark&dates=2CDD1C&background=000000&border=23FA85&fire=DDC65A&ring=B2F897&sideNums=DD0000)](https://git.io/streak-stats)
 <img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=c02kr&theme=dark" width="48%" >
+
 <br>
 <div align="center">
 
@@ -38,4 +38,4 @@ Software Development | Web development | Competitive Programming | Open Source C
 ### Contact
 
 # still under progress!!😅
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+and its open for suggestions
