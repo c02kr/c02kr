@@ -37,4 +37,4 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 # still under progress!!😅
 
-- 📫 How to reach me out  **c02kr@icloud.com**
+- say me hello here **c02kr@icloud.com**
