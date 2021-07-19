@@ -1,4 +1,4 @@
-## Hey Folks!  I'm Chandan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey Folks! I'm Chandan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### welcome to my github home
 ### About me☺️
 I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute in  open source.
@@ -28,7 +28,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 <!-- ![My Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 
-### My Most used Languages
+### My Most Used Languages Are
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c02kr&show_icons=true&theme=radical)
 
