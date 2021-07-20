@@ -41,3 +41,21 @@ Software Development | Web development | Competitive Programming | Open Source C
 - you can reach me out on several platforms of yout choice.
 
 <iframe src="https://open.spotify.com/embed/track/2GvjcWWfzbfFmAPbXmPn3O?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+plugins: [
+  {
+    resolve: "gatsby-transformer-remark",
+    options: {
+      plugins: [
+        {
+          resolve: "gatsby-remark-embed-spotify",
+          options: {
+            width: 800, // default is "100%"
+            height: 600 // default is 400
+          }
+        }
+      ]
+    }
+  }
+];
+
