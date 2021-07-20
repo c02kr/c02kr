@@ -59,3 +59,26 @@ plugins: [
   }
 ];
 
+
+
+## My blog post
+
+This is an example of embedding a single spotify track.
+Just type your markdown as you normally do, and then insert a valid
+spotify link anywhere to automatically transform it into an embed!
+
+https://open.spotify.com/track/6CnkGSMarTBjIKWuuGXBNl?si=ecMRoa36RnWte3RR7PdJhw
+
+You can also embed albums
+
+https://open.spotify.com/album/3ICWz0kXRrh74cfcS0diek?si=AEK51ar4RI6zNduAVMmI-Q
+
+And playlists!
+
+https://open.spotify.com/user/garetmckinley/playlist/2SmGA6PDALbMzfBwseeDNx?si=CDGId95KQHis8uYipbXLzQ
+
+And artist pages!
+
+https://open.spotify.com/artist/0nLTVC5FExtXgF3RoLh0TH?si=SIPTIBZHTaiODE_WNqB-BA
+
+
