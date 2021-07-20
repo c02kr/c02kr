@@ -39,3 +39,5 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 - say me hello here **c02kr@icloud.com**
 - you can reach me out on several platforms of yout choice.
+
+<iframe src="https://open.spotify.com/embed/track/2GvjcWWfzbfFmAPbXmPn3O?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
