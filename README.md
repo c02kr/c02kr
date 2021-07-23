@@ -39,4 +39,4 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 - but you can still say me hello here **c02kr@icloud.com**
 
-You just hit a route that doesn't exist... the sadness.
+You just hit a route that doesn't exist... the sadness.🤟
