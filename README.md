@@ -37,7 +37,6 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 # still under progress!!😅
 
-- say me hello here **c02kr@icloud.com**
-- you can reach me out on several platforms of yout choice.
+- but you can still say me hello here **c02kr@icloud.com**
 
 You just hit a route that doesn't exist... the sadness.
