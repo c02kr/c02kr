@@ -25,7 +25,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
 
 </div>
-<!-- ![My Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
+<!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### My Most Used Languages Are
