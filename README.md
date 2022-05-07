@@ -28,7 +28,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 <!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 
-### My Most Used Languages Are
+### I Mostly Work With
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c02kr&show_icons=true&theme=radical)
 
