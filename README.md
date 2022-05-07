@@ -35,6 +35,7 @@ Software Development | Web development | Competitive Programming | Open Source C
 ### If you don't find me on computer I'll most likely be:
 1. Watching cat videos 😽
 2. Listening to music 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=default&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### Contact
