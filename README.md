@@ -1,5 +1,4 @@
-## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
-### welcome to my github home
+## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35"><img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 ### About me    ☺️
 I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute in  open source.
 
@@ -12,7 +11,7 @@ I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I
 <br />
 <br />
 
-### My Interests
+### My Interests✍
 
 Software Development | Web development | Competitive Programming | Open Source Contribution
 
