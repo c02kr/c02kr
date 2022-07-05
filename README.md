@@ -44,9 +44,8 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 ### Contact
 
-# still  under progress!!😅
-
 - but you can still say me hello here **c02kr@icloud.com**
 
 🤟
 ### Epilogue
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
