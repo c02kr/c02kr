@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;Feel+Free+To+Contact+☺️)](https://git.io/typing-svg)
+
+
+
 ## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35"><img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 ### About me    ☺️
 I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute in  open source.
