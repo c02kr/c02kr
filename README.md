@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;Feel+Free+To+Connect+☺️)](https://git.io/typing-svg)
 
 
-
 ## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35"><img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 ### About me    ☺️
 I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute to open source.
@@ -20,20 +19,23 @@ I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I
 Software Development | Web development | Competitive Programming | Open Source Contribution
 
 
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=graywhite&background=000000&border=DDD9D6&stroke=FFFCFD&ring=F8FF02&fire=FF6E0F&currStreakNum=FEFFF9&sideNums=FFFFFF&currStreakLabel=FFCD9B&sideLabels=FFFFFF&dates=5B3BDD)](https://git.io/streak-stats)<img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
-
-<br>
-<div align="right">
-<img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
-
-</div>
-<!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### I Mostly Work With
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c02kr&show_icons=true&theme=radical)
+
+
+
+### My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=graywhite&background=000000&border=DDD9D6&stroke=FFFCFD&ring=F8FF02&fire=FF6E0F&currStreakNum=FEFFF9&sideNums=FFFFFF&currStreakLabel=FFCD9B&sideLabels=FFFFFF&dates=5B3BDD)](https://git.io/streak-stats)<img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
+
+<br>
+<div align="left">
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
+
+</div>
+<!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
 
 ### If you don't find me on computer I'll most likely be:
 1. Watching cat videos 😽
