@@ -51,3 +51,4 @@ Software Development | Web development | Competitive Programming | Open Source C
 🤟
 ### Epilogue
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
+[![c02kr's GitHub | Stats](https://stats.quine.sh/c02kr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=c02kr)
