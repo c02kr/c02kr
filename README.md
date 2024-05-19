@@ -1,54 +1,52 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;Feel+Free+To+Connect+☺️)](https://git.io/typing-svg)
 
+## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35">
 
-## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35"><img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
-### About me    ☺️
-I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I am a competitive programmer and love to contribute to open source.
-
-
+### About Me    ☺️
+I'm Chandan, a budding developer and a spirited undergraduate student at MS Ramaiah Institute of Technology, Bangalore. Currently, I'm adding value as an Intern Software Engineer at Infoblox. My passion lies in contributing to open source projects, driving innovation, and embracing challenges with a smile.
 
 ### Technical Skills                             :computer:
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-
-<br />
-<br />
+- C++ 
+- Go
+- Python
+- Swift
+- iOS Application Development
 
 ### My Interests✍
 
-Software Development | Web development | Competitive Programming | Open Source Contribution
+I'm deeply passionate about Software Development, iOS Application Development, Competitive Programming, and making meaningful contributions to the Open Source community.
 
+### Hey Visitor 👋 
+  <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="150" height="50" align="center" >
 
+### If you don't find me with my computer, I'll most likely be:
+1. Playing with cats 😽
+2. Grooving to music beats 🎵
 
+<!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=natemoo-re&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000948.363c3b59ef21472697457595f198b71f.0620)](https://github.com/rayriffy/apple-music-github-profile)
+### ⚡ My GitHub Stats
 
-### I Mostly Work With
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckumar3-infoblox&show_icons=true&theme=merko)
+<br> *infoblox contributions are not included here.
+<!-- Custom Section: More Awesomeness -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c02kr&show_icons=true&theme=radical)
-
-
-
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=graywhite&background=000000&border=DDD9D6&stroke=FFFCFD&ring=F8FF02&fire=FF6E0F&currStreakNum=FEFFF9&sideNums=FFFFFF&currStreakLabel=FFCD9B&sideLabels=FFFFFF&dates=5B3BDD)](https://git.io/streak-stats)<img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
-
-<br>
-<div align="left">
-<img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
-
-</div>
-<!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
-
-### If you don't find me on computer I'll most likely be:
-1. Watching cat videos 😽
-2. Listening to music 🎵
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=natemoo-re&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+### More Awesomeness 🚀
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
+- **Interactive Projects**: Check out some of my interactive projects in action:
+  - [Project 1](link-to-project-1): Description of project 1
+  - [Project 2](link-to-project-2): Description of project 2
+  
+- **Latest Blog Posts**: Dive into my latest blog posts where I share insights and experiences:
+  - [Blog Post 1](link-to-blog-post-1): Title of Blog Post 1
+  - [Blog Post 2](link-to-blog-post-2): Title of Blog Post 2
+  
+- **Hackathons & Challenges**: See my achievements and experiences from hackathons and coding challenges:
+  - [Hackathon 1](link-to-hackathon-1): Description of Hackathon 1
+  - [Coding Challenge 1](link-to-challenge-1): Description of Challenge 1
 
 ### Contact
+Feel free to reach out to me at **ckumar3@infoblox.com**
 
-- but you can still say me hello here **c02kr@icloud.com**
-
-🤟
 ### Epilogue
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
-[![c02kr's GitHub | Stats](https://stats.quine.sh/c02kr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=c02kr)
