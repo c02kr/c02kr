@@ -17,7 +17,7 @@ I'm Chandan, a budding developer and a spirited undergraduate student at MS Rama
 I'm deeply passionate about Software Development, iOS Application Development, Competitive Programming, and making meaningful contributions to the Open Source community.
 
 ### Hey Visitor 👋 
-  <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="150" height="50" align="center" >
+  <img  src="https://visitor-badge.laobi.icu/badge?page_id=co2kr.co2kr" width="150" height="50" align="center" >
 
 ### If you don't find me with my computer, I'll most likely be:
 1. Playing with cats 😽
@@ -27,7 +27,7 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000948.363c3b59ef21472697457595f198b71f.0620)](https://github.com/rayriffy/apple-music-github-profile)
 ### ⚡ My GitHub Stats
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckumar3-infoblox&show_icons=true&theme=merko)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=co2kr&show_icons=true&theme=merko)
 <br> *infoblox contributions are not included here.
 <!-- Custom Section: More Awesomeness -->
 
