@@ -3,33 +3,40 @@
 ## Hey Folks! I'm Chandan   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="35">
 
 ### About Me    ☺️
-I'm Chandan, a budding developer and a spirited undergraduate student at MS Ramaiah Institute of Technology, Bangalore. Currently, I'm adding value as an Intern Software Engineer at Infoblox. My passion lies in contributing to open source projects, driving innovation, and embracing challenges with a smile.
 
-### Technical Skills                             :computer:
-- C++ 
-- Go
-- Python
-- Swift
-- iOS Application Development
+I'm Chandan, a passionate **developer** and **undergraduate student** at MS Ramaiah Institute of Technology, Bangalore.  
+🚀 Currently, I'm contributing as a **Software Engineer Intern** at **Infoblox**.  
+💡 I thrive on solving complex problems, contributing to **Open Source**, and innovating with technology.  
+
+### Technical Skills  :computer:  
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus) 
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) 
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) 
+![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) 
+![iOS Development](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
 ### My Interests✍
 
 I'm deeply passionate about Software Development, iOS Application Development, Competitive Programming, and making meaningful contributions to the Open Source community.
 
 ### Hey Visitor 👋 
-  <img  src="https://visitor-badge.laobi.icu/badge?page_id=co2kr.co2kr" width="150" height="50" align="center" >
+  <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="150" height="50" align="center" >
 
 ### If you don't find me with my computer, I'll most likely be:
 1. Playing with cats 😽
 2. Grooving to music beats 🎵
-
-<!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=natemoo-re&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000948.363c3b59ef21472697457595f198b71f.0620)](https://github.com/rayriffy/apple-music-github-profile)
+   
 ### ⚡ My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ckumar392&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ckumar392&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckumar392&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" />
+</p>
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=co2kr&show_icons=true&theme=merko)
-<br> *infoblox contributions are not included here.
 <!-- Custom Section: More Awesomeness -->
+### 🌟 Highlighted Projects  
+- [**Project-Learn-to-Program**](link-to-project):
+- [**iOS App Name**](link-to-project)
 
 ### More Awesomeness 🚀
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
@@ -44,9 +51,11 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 - **Hackathons & Challenges**: See my achievements and experiences from hackathons and coding challenges:
   - [Hackathon 1](link-to-hackathon-1): Description of Hackathon 1
   - [Coding Challenge 1](link-to-challenge-1): Description of Challenge 1
-
-### Contact
-Feel free to reach out to me at **ckumar3@infoblox.com**
+  - 
+### 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/c02kr)  
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)](https://github.com/ckumar392)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
 
 ### Epilogue
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
